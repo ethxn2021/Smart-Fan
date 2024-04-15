@@ -10,4 +10,4 @@ Devices used :
 * Humidity Sensor
 * ThinkInk display
 * Blynk App
-* Motored Fan 
+* Motored Fan.
